@@ -1,3 +1,3 @@
 
-for s in range (1,11):
+for s in range (1,15):
     print(s)
